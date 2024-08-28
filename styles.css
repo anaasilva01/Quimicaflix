@@ -1,0 +1,31 @@
+body{
+color:white;
+background:black;
+padding:0px;
+font-family: "Amatic SC", sans-serif;
+}
+
+header {
+border-bottom:solid 2px rgb(255,255,255);
+padding:13px;
+font-size: 30px;
+}
+
+
+section{
+background: rgba(75,6,6,1);
+padding-bottom:80px;
+padding-top:80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+
+    margin-right: 5%;
+}
+
+h1{
+
+    font-size: 42px;
+}
